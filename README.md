@@ -1,3 +1,7 @@
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E44AF7&random=false&width=435&height=40&lines=Hi%2C+I'm+Md+Ashikur+Rahman+Ashik;Web+Developer" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 I love taking complex problems and transforming them into simple, beautiful, and intuitive coding interfaces. The logic and structure of programming fascinate me, and I always strive to write code that is clean, elegant, and efficient. My goal is to build solutions that not only work — but feel great to use. Whether it be HTML | CSS | JavaScript | ReactJS | NodeJS | MongoDB | Tailwind CSS and there's more.<br><br>🌱 I’m currently learning AI.<br>👯 I’m looking to collaborate on any MERN stack related projects.<br>💬 Ask me about JavaScript| ReactJS  | Express JS | NodeJS | MongoDB | HTML | CSS | Tailwind CSS | C | Java | Python .<br>📫 How to reach me: ashikurashik20999@gmail.com<br>⚡ Fun fact: I push myself to learn something new every single day — especially in web development.
 
